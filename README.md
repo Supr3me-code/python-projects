@@ -1,5 +1,4 @@
 # Python_projects
-
 Few classic projects
 
 Main Library Used: Tkinter (TK interface)
