@@ -6,4 +6,4 @@ Out of all the GUI methods, tkinter is the most commonly used method. It is a st
 
 1. Tic-Tac-Toe
 2. Snake
-3. Tetris (Coming Soon)
+3. Calculator
